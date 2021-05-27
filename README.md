@@ -1,2 +1,2 @@
 # lovense.gs
-Lua for the Counter-Strike: Global Offensive Cheat Gamesense which controls a Lovense sextoy through Lan API requests
+A Lua for the Counter-Strike: Global Offensive cheat Gamesense which controls a Lovense sextoy through Lan API requests
